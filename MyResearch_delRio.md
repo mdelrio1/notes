@@ -1,7 +1,7 @@
 # My Research Interest
 # by Miguel A. del Río
 
-# Departamento de Acuicultura, CICESE
+Departamento de Acuicultura, CICESE
 Aquaculture Department, CICESE
 ---
 I like aquatic organisms, mainly those of economic interest. 
