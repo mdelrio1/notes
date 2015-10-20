@@ -1,5 +1,5 @@
 # My Research Interest
-##### by Miguel A. del Río
+# by Miguel A. del Río
 
 # Departamento de Acuicultura, CICESE
 Aquaculture Department, CICESE
